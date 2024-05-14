@@ -1,1 +1,3 @@
 # longworldtea
+
+npm install longworldtea
